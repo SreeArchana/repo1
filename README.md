@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Archana - DevOps Engineer"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Archana</h1>
 
 <h3 align="center">DevOps Engineer | AWS | CI/CD | Cloud Infrastructure</h3>
